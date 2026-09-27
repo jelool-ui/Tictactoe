@@ -1,0 +1,24 @@
+{
+  "appId": "com.tictacduel.app",
+  "appName": "Tic Tac Duel",
+  "webDir": "dist",
+  "backgroundColor": "#0f172aff",
+  "android": {
+    "backgroundColor": "#0f172aff",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": false,
+      "launchFadeOutDuration": 250,
+      "backgroundColor": "#0f172a",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": false,
+      "splashImmersive": false
+    }
+  }
+}

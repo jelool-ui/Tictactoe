@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <!-- Adaptive-icon foreground: content kept inside the 66dp safe zone (21..87). -->
+  <g stroke-linecap="round" fill="none">
+    <g stroke="#ffffff" stroke-opacity="0.28" stroke-width="2.4">
+      <path d="M45 26 V82 M63 26 V82 M26 45 H82 M26 63 H82"/>
+    </g>
+    <g stroke="#fb7185" stroke-width="5.2">
+      <path d="M29 29 L41 41 M41 29 L29 41"/>
+      <path d="M48 48 L60 60 M60 48 L48 60"/>
+      <path d="M67 67 L79 79 M79 67 L67 79"/>
+    </g>
+    <circle cx="35" cy="73" r="6.4" stroke="#67e8f9" stroke-width="5"/>
+    <circle cx="73" cy="35" r="6.4" stroke="#67e8f9" stroke-width="5"/>
+    <path d="M30 30 L78 78" stroke="#fcd34d" stroke-width="3.2" stroke-opacity="0.95"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tic Tac Duel</string>
+    <string name="title_activity_main">Tic Tac Duel</string>
+    <string name="package_name">com.tictacduel.app</string>
+    <string name="custom_url_scheme">com.tictacduel.app</string>
+</resources>
